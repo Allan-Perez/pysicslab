@@ -29,6 +29,7 @@ pyvenv.cfg
 .env
 .venv
 env/
+pylab/
 venv/
 ENV/
 env.bak/
