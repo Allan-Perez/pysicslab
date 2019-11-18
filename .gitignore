@@ -50,4 +50,9 @@ pip-selfcheck.json
 *.vcf
 *.xml
 
+## IMG ##
+*.jpg
+*.pdf
+*.png
+
 # End of https://www.gitignore.io/api/virtualenv,jupyternotebooks
